@@ -21,22 +21,22 @@
     },
     "message": {
         "backgroundImageName": "NotificationBackgroundMessage.png",
-        "borderColor": "#727C83",
-        "borderHeight": 1,
+        "borderColor": "#D4DDDF",
+        "borderHeight": 3,
         "buttonBackgroundImageName": "NotificationButtonBackground.png",
         "buttonTitleTextColor": "#727C83",
         "buttonTitleShadowColor": "#EBEEF1",
         "buttonTitleShadowOffsetX": 0,
         "buttonTitleShadowOffsetY": 1,
-        "contentFontSize": 12,
+        "contentFontSize": 15,
         "contentTextColor": "#727C83",
-        "imageName": "",
+        "imageName": "yay_balloons_toast.png",
         "shadowColor": "#EBEEF1",
         "shadowOffsetX": 0,
         "shadowOffsetY": 1,
         "textColor": "#727C83",
-        "titleFontSize": 14,
-        "backgroundColor": "#D4DDDF"
+        "titleFontSize": 21,
+        "backgroundColor": "#273d46"
     },
     "warning": {
         "backgroundImageName": "NotificationBackgroundWarning.png",
